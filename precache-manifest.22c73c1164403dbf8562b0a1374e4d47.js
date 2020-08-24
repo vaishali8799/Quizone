@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "262a26cddba2121d6f479b80dbe3bc1e",
+    "revision": "faa26c9522725dc2beb7c313224b55a3",
     "url": "/Quizone/index.html"
   },
   {
-    "revision": "ace488465589075e7fcd",
+    "revision": "44003be8cfabdaa6128e",
     "url": "/Quizone/static/css/2.3ec49f57.chunk.css"
   },
   {
-    "revision": "e49c880f3688e7983b8c",
+    "revision": "140b037a48b0802f005c",
     "url": "/Quizone/static/css/main.1e891610.chunk.css"
   },
   {
-    "revision": "ace488465589075e7fcd",
-    "url": "/Quizone/static/js/2.a0a41e90.chunk.js"
+    "revision": "44003be8cfabdaa6128e",
+    "url": "/Quizone/static/js/2.05ff968c.chunk.js"
   },
   {
     "revision": "35937c55f4ccbb69aaefc08b51c916a0",
-    "url": "/Quizone/static/js/2.a0a41e90.chunk.js.LICENSE.txt"
+    "url": "/Quizone/static/js/2.05ff968c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e49c880f3688e7983b8c",
-    "url": "/Quizone/static/js/main.e77b678a.chunk.js"
+    "revision": "140b037a48b0802f005c",
+    "url": "/Quizone/static/js/main.6c89fba8.chunk.js"
   },
   {
     "revision": "bbc09d1e3bc50155f3cd",

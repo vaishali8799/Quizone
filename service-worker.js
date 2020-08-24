@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Quizone/precache-manifest.add4d6389303f0c478dda018779eba6b.js"
+  "/Quizone/precache-manifest.3bf5297af9bcd5631926dc3ed7e6ca17.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d3f79aed8d3ae35f767fdf66ae4a394",
+    "revision": "262a26cddba2121d6f479b80dbe3bc1e",
     "url": "/Quizone/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Quizone/static/css/2.3ec49f57.chunk.css"
   },
   {
-    "revision": "df52491f246fb0f0370a",
+    "revision": "e49c880f3688e7983b8c",
     "url": "/Quizone/static/css/main.1e891610.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Quizone/static/js/2.a0a41e90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df52491f246fb0f0370a",
-    "url": "/Quizone/static/js/main.31e190f6.chunk.js"
+    "revision": "e49c880f3688e7983b8c",
+    "url": "/Quizone/static/js/main.e77b678a.chunk.js"
   },
   {
     "revision": "bbc09d1e3bc50155f3cd",
